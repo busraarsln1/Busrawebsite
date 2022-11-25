@@ -1,2 +1,0 @@
-# Busrawebsite
-Busrapotfolyo
